@@ -2,7 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installing/Launching Default React App from Terminal
 
-`npm install -g create-react-app`
+1) `npm install -g create-react-app`
+    for installation
+    
+2) `npx create-react-app <project name>`
+    creates the project directory
+    
+3) `cd <project name>`
+
+4) `npm run start`
 
 ## Available Scripts
 
